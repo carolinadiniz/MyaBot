@@ -5,19 +5,19 @@
   "name": "gta_mexico",
   "description": ".",
   "version": "2.0.0",
-  "main": "src/index.js",
+  "main": "index.js",
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Joao3c/GTA_MEXICO.git"
+    "url": "git+https://github.com/carolinadiniz/MyaBot.git"
   },
-  "author": "Carolina Diniz e João Silva",
+  "author": "Carolina Diniz",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Joao3c/GTA_MEXICO/issues"
+    "url": "https://github.com/carolinadiniz/MyaBot/issues"
   },
-  "homepage": "https://github.com/Joao3c/GTA_MEXICO#readme"
+  "homepage": "https://github.com/carolinadiniz/MyaBot/#readme"
 }
