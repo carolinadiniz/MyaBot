@@ -1,0 +1,37 @@
+{
+    "Fajuta" : {
+        "nome": "Fajuta", 
+        "prefix": "fajuta", 
+        "preco": 600
+    },
+    "FiveSeven" : {
+        "nome": "Five Seven", 
+        "prefix": "five", 
+        "preco": 900
+    },
+    "MP5" : {
+        "nome": "MP5", 
+        "prefix": "mp5", 
+        "preco": 1000
+    },
+    "TEC9": {
+        "nome": "TEC9", 
+        "prefix": "tec9", 
+        "preco": 1000
+    },
+    "AK47": {
+        "nome": "AK-47", 
+        "prefix": "ak", 
+        "preco": 1000
+    },
+    "AKMK2": {
+        "nome": "AK-MK2", 
+        "prefix": "mk2", 
+        "preco": 1400
+    },
+    "G3": {
+        "nome": "G3", 
+        "prefix": "g3", 
+        "preco": 1500
+    }
+}

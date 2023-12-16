@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  },
+  "name": "gta_mexico",
+  "description": ".",
+  "version": "2.0.0",
+  "main": "src/index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joao3c/GTA_MEXICO.git"
+  },
+  "author": "Carolina Diniz e João Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joao3c/GTA_MEXICO/issues"
+  },
+  "homepage": "https://github.com/Joao3c/GTA_MEXICO#readme"
+}
